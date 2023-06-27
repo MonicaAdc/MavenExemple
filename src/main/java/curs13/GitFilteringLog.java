@@ -19,6 +19,6 @@ public class GitFilteringLog {
 	
 	// git log -1 sau git log --author=' name commit author' -> filtrarea dupa autor : 
 	// git log --oneline --grep=' commit message' -> filtrare dupa commit message : 
-	// git lon --oneline --stat -> comanda care ne arata toate fisierele care au fost modificate
-	// git lon --oneline --patch -> all lines changed
+	// git log --oneline --stat -> comanda care ne arata toate fisierele care au fost modificate
+	// git log --oneline --patch -> all lines changed
 }
